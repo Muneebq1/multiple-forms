@@ -1,0 +1,25 @@
+.hidden {
+  display: none;
+}
+
+.container {
+  border: 1px solid black;
+
+  border-radius: 20px;
+  margin-top: 10%;
+  margin-left: 35%;
+  width: 20%;
+  height: 150px;
+  padding-top: 5%;
+  padding-left: 5%;
+}
+h2{
+  margin-top: -15%;
+  color: steelblue;
+  cursor: pointer;
+}
+h1{
+  margin-top: -10%;
+  color: steelblue;
+
+}
